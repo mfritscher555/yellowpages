@@ -12,7 +12,7 @@ class neworleansSpider(scrapy.Spider):
     #rest_ids = []
 
     def parse(self, response):
-        file_name = 'nolaoutputfile37.csv'
+        file_name = 'nolaoutputfile.csv'
         #restaurant_info = response.css('div#main-content')
         restaurants = response.css('div.result')
 
