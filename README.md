@@ -8,4 +8,6 @@ The _scraper.py file was the ultimate file used to do the web scraping and the n
 Once I was cd'd into the appropriate directory, and made the appropriate imports in my virtual environment, I was ready to run the scraper. 
 The command was:
 
-```(yellowpages) $ scrapy crawl neworleans```
+```(yellowpages) $ scrapy crawl nola```
+
+"nola" comes from the _scraper.py file where I defined the name of the spider to be nola.
