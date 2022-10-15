@@ -6,7 +6,7 @@ from lxml import etree
 import requests
 
 class neworleansSpider(scrapy.Spider):
-    name = "tester"
+    name = "nola"
     start_urls = ['https://www.yellowpages.com/search?search_terms=restaurants&geo_location_terms=New%20Orleans%2C%20LA',
     'https://www.yellowpages.com/search?search_terms=restaurants&geo_location_terms=New%20Orleans%2C%20LA&s=default&page=2']
     #start = 0
