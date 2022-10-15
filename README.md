@@ -11,3 +11,5 @@ The command was:
 ```(yellowpages) $ scrapy crawl nola```
 
 "nola" comes from the _scraper.py file where I defined the name of the spider to be nola.
+
+(yellowpages) was the name of my virtual environment. 
