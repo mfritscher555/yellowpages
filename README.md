@@ -1,7 +1,7 @@
 # yellowpages
 
 ## Files to Look At
-The _scraper.py file was the ultimate file used to do the web scraping and the nola_output_revised.csv represents the final output generated.
+The _scraper.py file was the ultimate file used to do the web scraping and the nola_output_revised.csv represents the final output generated (the difference in the revised output file being that it drops duplicate records). 
 
 
 ## What to Run in the Terminal
